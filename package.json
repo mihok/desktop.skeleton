@@ -25,7 +25,7 @@
   "author": "Matthew Mihok <matthew@mihok.computer>",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "electron": "^11.1.1",
+    "electron": "^13.6.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.0",
